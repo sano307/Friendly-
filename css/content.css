@@ -1,0 +1,94 @@
+.content {
+    margin: 0 auto;
+    padding: 0;
+    width: 800px;
+    height: 800px;
+    margin-top: 5px;
+}
+
+.clx {
+    zoom: 1;
+}
+
+.listArea > li {
+    position: relative;
+    float: left;
+    width: 350px;
+    margin-left: 25px;
+    margin-bottom: 45px;
+}
+
+.unit {
+    width: 350px;
+    height: 350px;
+    text-align: left;
+    padding: 10px;
+}
+
+.unit:hover {
+    background-color: aliceblue;
+}
+
+.unit img {
+    display: block;
+    width: 220px;
+    height: 220px;
+    text-align: center;
+    background: white;
+}
+
+.unit .star {
+    display: block;
+    margin-top: 8px;
+    padding-bottom: 4px;
+    color: #666;
+    border-bottom: 1px solid #ddd;
+    font-size: 11px;
+}
+
+.unit .star .rating {
+    display: inline-block;
+    width: 65px;
+    height: 13px;
+    margin-right: 3px;
+}
+
+.unit .info {
+    display: block;
+    position: relative;
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.unit .info > span {
+    display: block;
+    line-height: 15px;
+    letter-spacing: -0.5px;
+}
+
+.unit .info .name {
+    margin-top: 6px;
+    color: #333;
+    font-weight: bold;
+    height: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+}
+
+.unit .info .loca {
+    margin-top: 3px;
+    color: #666;
+    font-family: '돋움';
+    font-size: 18px;
+}
+
+.unit .info .price {
+    margin-top: 5px;
+    color: #666;
+    font-weight: bold;
+    font-size: 24px;
+}

@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e14e67-722c-400c-9561-46e37042f7c3" name="Default" comment="" />
+    <ignored path="myShopA2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myShopA2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="boardCTL.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/controller/boardCTL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="130.63333">
+              <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boardResponseModify.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/view/board/boardResponseModify.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productCTL.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/controller/productCTL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.366667">
+              <caret line="85" column="45" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boardModify.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/view/board/boardModify.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.333333">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boardInsert.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/view/board/boardInsert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.833333">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boardResponseInsert.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/view/board/boardResponseInsert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6133177">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memberProductBasket.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/view/member/memberProductBasket.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.633333">
+              <caret line="39" column="174" selection-start-line="39" selection-start-column="174" selection-end-line="39" selection-end-column="174" />
+              <folding>
+                <marker date="1450013231811" expanded="true" signature="1108:1136" placeholder="..." />
+                <marker date="1450013231811" expanded="true" signature="1757:1800" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminCTL.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/controller/adminCTL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.1">
+              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memberCTL.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/controller/memberCTL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-117.0">
+              <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="201" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main/view/board/boardList.php" />
+        <option value="$PROJECT_DIR$/main/view/common/pagenation.php" />
+        <option value="$PROJECT_DIR$/test/testCheckbox.php" />
+        <option value="$PROJECT_DIR$/test/testCheckboxSub.php" />
+        <option value="$PROJECT_DIR$/test/testCheckboxMain.php" />
+        <option value="$PROJECT_DIR$/test/testImageUpload.php" />
+        <option value="$PROJECT_DIR$/test/testImageUploadRequest.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/test/testImageCopyResize.php" />
+        <option value="$PROJECT_DIR$/main/view/admin/alert/pi_alert.php" />
+        <option value="$PROJECT_DIR$/test/testStrpad.php" />
+        <option value="$PROJECT_DIR$/test/testImageUploadGet.php" />
+        <option value="$PROJECT_DIR$/main/view/admin/productManagement.php" />
+        <option value="$PROJECT_DIR$/main/view/product/productList.php" />
+        <option value="$PROJECT_DIR$/main/view/admin/productInsert.php" />
+        <option value="$PROJECT_DIR$/test/testArraydiff.php" />
+        <option value="$PROJECT_DIR$/main/view/admin/alert/pm_alert.php" />
+        <option value="$PROJECT_DIR$/css/content.css" />
+        <option value="$PROJECT_DIR$/test/testArray.php" />
+        <option value="$PROJECT_DIR$/main/view/admin/memberManagement.php" />
+        <option value="$PROJECT_DIR$/main/view/admin/productModify.php" />
+        <option value="$PROJECT_DIR$/main/model/adminDAO.php" />
+        <option value="$PROJECT_DIR$/main/controller/adminCTL.php" />
+        <option value="$PROJECT_DIR$/test/testTime.php" />
+        <option value="$PROJECT_DIR$/main/view/member/alert/mpb_alert.php" />
+        <option value="$PROJECT_DIR$/main/view/member/alert/ms_alert.php" />
+        <option value="$PROJECT_DIR$/css/basic.css" />
+        <option value="$PROJECT_DIR$/test/testResponsePost.php" />
+        <option value="$PROJECT_DIR$/main/view/nav.php" />
+        <option value="$PROJECT_DIR$/main/model/productDAO.php" />
+        <option value="$PROJECT_DIR$/main/controller/productCTL.php" />
+        <option value="$PROJECT_DIR$/main/view/product/productView.php" />
+        <option value="$PROJECT_DIR$/main/view/MainView.php" />
+        <option value="$PROJECT_DIR$/test/testChange.php" />
+        <option value="$PROJECT_DIR$/main/view/header.php" />
+        <option value="$PROJECT_DIR$/test/testContent.php" />
+        <option value="$PROJECT_DIR$/main/model/commonLIB.php" />
+        <option value="$PROJECT_DIR$/main/view/member/alert/mph_alert.php" />
+        <option value="$PROJECT_DIR$/main/controller/memberCTL.php" />
+        <option value="$PROJECT_DIR$/main/model/memberDAO.php" />
+        <option value="$PROJECT_DIR$/main/view/member/memberPaymentHistory.php" />
+        <option value="$PROJECT_DIR$/main/view/board/boardView.php" />
+        <option value="$PROJECT_DIR$/main/view/section.php" />
+        <option value="$PROJECT_DIR$/main/controller/mainCTL.php" />
+        <option value="$PROJECT_DIR$/main/view/board/boardResponseInsert.php" />
+        <option value="$PROJECT_DIR$/main/model/boardDAO.php" />
+        <option value="$PROJECT_DIR$/main/controller/boardCTL.php" />
+        <option value="$PROJECT_DIR$/main/view/board/boardModify.php" />
+        <option value="$PROJECT_DIR$/main/view/board/boardInsert.php" />
+        <option value="$PROJECT_DIR$/main/view/board/boardResponseModify.php" />
+        <option value="$PROJECT_DIR$/main/view/member/memberProductBasket.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="board" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="board" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShopA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyShopA6" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\myShopA2\img\product" />
+      <recent name="C:\AutoSet9\public_html\myShopA2\main\model" />
+      <recent name="C:\AutoSet9\public_html\myShopA2\main\view\body" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\myShopA2\img\product" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e14e67-722c-400c-9561-46e37042f7c3" name="Default" comment="" />
+      <created>1445394370659</created>
+      <option name="number" value="Default" />
+      <updated>1445394370659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="myShopA2" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="myShopA2" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/view/admin_section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.774194">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/commonDataMainView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/member/memberSignUp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/public_html/first_board/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/admin/memberManagement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="33" column="119" selection-start-line="33" selection-start-column="119" selection-end-line="33" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/admin/productModify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.870968">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/admin/memberModify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/admin/productManagement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.32258">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/admin/alert/pm_alert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.870968">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.032258">
+          <caret line="175" column="11" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/common/pagenation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.83871">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/product/productList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.483871">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/aside.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.4838705">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/MainView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/product/productView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/board/alert/bi_alert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/member/alert/mpb_alert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.166667">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/member/alert/ms_alert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="42.033333">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/member/alert/mph_alert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1666665">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/model/adminDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.833333">
+          <caret line="121" column="9" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+          <folding>
+            <marker date="1449790370000" expanded="true" signature="119:139" placeholder="SELECT * FRO..member..." />
+            <marker date="1449790370000" expanded="true" signature="755:879" placeholder="SELECT COUNT..${strval($argTable)}..." />
+            <marker date="1449790370000" expanded="true" signature="1112:1133" placeholder="SELECT COUNT..${strval($argTable)}..." />
+            <marker date="1449790370000" expanded="true" signature="1444:1641" placeholder="SELECT * FRO..${strval($argTable)}..." />
+            <marker date="1449790370000" expanded="true" signature="2023:2150" placeholder="SELECT * FRO..${strval($argTable)}..." />
+            <marker date="1449790370000" expanded="true" signature="2507:2542" placeholder="SELECT * FRO..member..." />
+            <marker date="1449790370000" expanded="true" signature="2880:2949" placeholder="SELECT COUNT..member..." />
+            <marker date="1449790370000" expanded="true" signature="3172:3225" placeholder="SELECT p_num..product..." />
+            <marker date="1449790370000" expanded="true" signature="3434:3477" placeholder="SELECT p_fim..product..." />
+            <marker date="1449790370000" expanded="true" signature="3721:3764" placeholder="SELECT p_sim..product..." />
+            <marker date="1449790370000" expanded="true" signature="4005:4066" placeholder="INSERT INTO member..." />
+            <marker date="1449790370000" expanded="true" signature="4545:4621" placeholder="INSERT INTO product..." />
+            <marker date="1449790370000" expanded="true" signature="5144:5222" placeholder="UPDATE produ..." />
+            <marker date="1449790370000" expanded="true" signature="5453:5536" placeholder="UPDATE produ..." />
+            <marker date="1449790370000" expanded="true" signature="5764:5865" placeholder="UPDATE produ..." />
+            <marker date="1449790370000" expanded="true" signature="6110:6202" placeholder="UPDATE produ..." />
+            <marker date="1449790370000" expanded="true" signature="6417:6498" placeholder="UPDATE membe..." />
+            <marker date="1449790370000" expanded="true" signature="6973:7050" placeholder="DELETE FROM ..." />
+            <marker date="1449790370000" expanded="true" signature="7216:7237" placeholder="SELECT * FRO..product..." />
+            <marker date="1449790370000" expanded="true" signature="7551:7587" placeholder="SELECT * FRO..product..." />
+            <marker date="1449790370000" expanded="true" signature="7944:8019" placeholder="UPDATE produ..." />
+            <marker date="1449790370000" expanded="true" signature="8585:8664" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/model/productDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.033333">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+          <folding>
+            <marker date="1449912054000" expanded="true" signature="165:289" placeholder="SELECT * FRO..product..." />
+            <marker date="1449912054000" expanded="true" signature="652:717" placeholder="SELECT COUNT..product..." />
+            <marker date="1449912054000" expanded="true" signature="967:1042" placeholder="SELECT COUNT..product..." />
+            <marker date="1449912054000" expanded="true" signature="1296:1332" placeholder="SELECT * FRO..product..." />
+            <marker date="1449912054000" expanded="true" signature="1637:1716" placeholder="SELECT p_num..product..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/member/memberPaymentHistory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.666666">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/common/writingOption.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.2">
+          <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/model/commonLIB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8333333">
+          <caret line="153" column="13" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/model/memberDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8333333">
+          <caret line="118" column="144" selection-start-line="118" selection-start-column="144" selection-end-line="118" selection-end-column="144" />
+          <folding>
+            <marker date="1449993614630" expanded="true" signature="161:271" placeholder="SELECT * FRO..member..." />
+            <marker date="1449993614630" expanded="true" signature="291:351" placeholder="SELECT * FRO..member..." />
+            <marker date="1449993614630" expanded="true" signature="1055:1128" placeholder="SELECT m_nic..member..." />
+            <marker date="1449993614630" expanded="true" signature="1431:1495" placeholder="SELECT * FRO..member..." />
+            <marker date="1449993614630" expanded="true" signature="1842:1884" placeholder="SELECT p_sto..product..." />
+            <marker date="1449993614630" expanded="true" signature="2129:2216" placeholder="SELECT m_bas..member..." />
+            <marker date="1449993614630" expanded="true" signature="2437:2516" placeholder="SELECT p_num..product..." />
+            <marker date="1449993614630" expanded="true" signature="2746:2831" placeholder="SELECT m_bas..member..." />
+            <marker date="1449993614630" expanded="true" signature="3053:3103" placeholder="SELECT m_bas..member..." />
+            <marker date="1449993614630" expanded="true" signature="3053:3105" placeholder="SELECT m_bas..member..." />
+            <marker date="1449993614630" expanded="true" signature="3053:3138" placeholder="SELECT m_bas..member..." />
+            <marker date="1449993614630" expanded="true" signature="3345:3409" placeholder="INSERT INTO member..." />
+            <marker date="1449993614630" expanded="true" signature="3863:4004" placeholder="UPDATE membe..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4320" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4321" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4322" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4354" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4356" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4357" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4384" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4385" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4404" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4273:4439" placeholder="INSERT INTO member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="4649:4758" placeholder="UPDATE produ..." />
+            <marker date="1449993614630" expanded="true" signature="5009:5120" placeholder="UPDATE membe..." />
+            <marker date="1449993614630" expanded="true" signature="5335:5443" placeholder="SELECT * FRO..member_payment..." />
+            <marker date="1449993614630" expanded="true" signature="5796:5907" placeholder="UPDATE membe..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/controller/mainCTL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.6">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/model/boardDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0333333">
+          <caret line="196" column="35" selection-start-line="196" selection-start-column="35" selection-end-line="196" selection-end-column="35" />
+          <folding>
+            <marker date="1450011392579" expanded="true" signature="119:149" placeholder="SELECT COUNT..freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="1603:1777" placeholder="UPDATE freeb..." />
+            <marker date="1450011392579" expanded="true" signature="2045:2093" placeholder="SELECT COUNT..free_reply..." />
+            <marker date="1450011392579" expanded="true" signature="3216:3279" placeholder="UPDATE freeb..." />
+            <marker date="1450011392579" expanded="true" signature="3513:3586" placeholder="SELECT m_num..member..." />
+            <marker date="1450011392579" expanded="true" signature="3828:3914" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="4302:4373" placeholder="INSERT INTO free_reply..." />
+            <marker date="1450011392579" expanded="true" signature="4760:4798" placeholder="DELETE FROM ..." />
+            <marker date="1450011392579" expanded="true" signature="5037:5163" placeholder="UPDATE free_..." />
+            <marker date="1450011392579" expanded="true" signature="5396:5427" placeholder="SELECT COUNT..free_reply..." />
+            <marker date="1450011392579" expanded="true" signature="5608:5663" placeholder="SELECT f_num..freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="5894:5927" placeholder="UPDATE freeb..." />
+            <marker date="1450011392579" expanded="true" signature="5894:5928" placeholder="UPDATE freeb..." />
+            <marker date="1450011392579" expanded="true" signature="5894:5986" placeholder="UPDATE freeb..." />
+            <marker date="1450011392579" expanded="true" signature="5894:5987" placeholder="UPDATE freeb..." />
+            <marker date="1450011392579" expanded="true" signature="5894:5988" placeholder="UPDATE freeb..." />
+            <marker date="1450011392579" expanded="true" signature="6216:6254" placeholder="DELETE FROM ..." />
+            <marker date="1450011392579" expanded="true" signature="6216:6255" placeholder="DELETE FROM ..." />
+            <marker date="1450011392579" expanded="true" signature="6478:6513" placeholder="DELETE FROM ..." />
+            <marker date="1450011392579" expanded="true" signature="6478:6514" placeholder="DELETE FROM ..." />
+            <marker date="1450011392579" expanded="true" signature="6736:6788" placeholder="SELECT f_ind..freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="6736:6789" placeholder="SELECT f_ind..freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="6736:6850" placeholder="SELECT f_ind..freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="6736:6851" placeholder="SELECT f_ind..freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7084:7166" placeholder="SELECT f_gro..freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7503" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7504" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7532" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7533" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7560" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7565" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7593" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7613" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7614" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7643" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7644" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7645" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7673" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7678" placeholder="INSERT INTO freeboard..." />
+            <marker date="1450011392579" expanded="true" signature="7468:7810" placeholder="INSERT INTO freeboard..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/board/boardView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-38.4">
+          <caret line="78" column="72" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/board/boardList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.7">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/board/boardInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.833333">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/board/boardResponseModify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/member/memberProductBasket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.633333">
+          <caret line="39" column="174" selection-start-line="39" selection-start-column="174" selection-end-line="39" selection-end-column="174" />
+          <folding>
+            <marker date="1450013231811" expanded="true" signature="1108:1136" placeholder="..." />
+            <marker date="1450013231811" expanded="true" signature="1757:1800" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/controller/adminCTL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/controller/memberCTL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-117.0">
+          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="201" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/controller/boardCTL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="130.63333">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/controller/productCTL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.366667">
+          <caret line="85" column="45" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/board/boardModify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/view/board/boardResponseInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6133177">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

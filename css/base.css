@@ -1,0 +1,46 @@
+@charset "utf-8";
+/****************************************/
+/*	Name: my Shop
+/*	PART: RESET BASE STYLE
+/*	Version: 1.0
+/*	Author: Inseo
+/****************************************/
+
+/*** Font ***/
+@font-face {
+    font-family:'NanumGothic';
+    src: url('../font/NanumGothic.eot');
+    src: url('../font/NanumGothic.eot?#iefix') format('embedded-opentype'),
+    url('../font/NanumGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);*/
+
+
+/*** filter ***/
+html {filter: expression(document.execCommand('BackgroundImageCache', false, true));}
+body {width:100%;  min-width:960px; height:100%;background: #fff; overflow-x:hidden; }
+
+/*** browser Expend ***/
+header,footer,section,article,aside,nav,hgroup,details,menu,figure,figcaption {display:block}
+
+/*** basis Selector ***/
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, table, th, td, form, fieldset, legend, input, textarea, button {margin:0; padding:0;}
+body, input, select, div, textarea, table, button {font-size:12px; font-family:helvetica, arial, verdana, tahoma, 'NanumGothic', '나눔고딕', Malgun Gothic, '맑은고딕', Apple Gothic, Dotum, '돋움', sans-serif; letter-spacing:-1px; color:#333; }
+html:first-child select {padding-right:6px; height:20px;} /* Opera 9 & Below Fix */
+option {padding-right:6px;} /* Firefox Fix */
+legend {display:none; overflow:hidden; visibility:hidden;} /* For Screen Reader */
+img, fieldset, button {vertical-align:middle; border:0;}
+ul, ol {list-style:none;}
+em, address {font-style:normal;}
+hr {display:none; visibility:hidden;}
+caption  {display:none;}
+table {border-collapse:collapse;}
+input, textarea, button {line-height: 1.2; /* 입력폼에서 춤추지 않는 최소 줄간 1.2 */ vertical-align: middle;}
+input[type=text], input[type=password], textarea {width:180px; height:24px; *margin:-1px 0 -1px; padding-left:3px; border:1px solid #ccc; color:#666; font-family:'돋움'; line-height:24px; letter-spacing:-0.2px; vertical-align:middle; }
+input[type="checkbox"],input[type="radio"] {margin:0; padding:0; vertical-align:middle; width:13px; height:13px; line-height:13px;}
+label {cursor:pointer;}
+a {text-decoration:none; color:#444;}
+a:hover, a:active, a:focus{text-decoration:none;}
+select{font-size:12px;}
